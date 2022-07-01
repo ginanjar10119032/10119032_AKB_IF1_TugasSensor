@@ -3,6 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/drawable/favorite_foreground.xml" value="0.2555" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.2555" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.121" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/activity_slider.xml" value="0.264" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/fragment_app_info.xml" value="0.1" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/fragment_maps.xml" value="0.10885416666666667" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/open1.xml" value="0.10989583333333333" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/open2.xml" value="0.10989583333333333" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/open3.xml" value="0.10989583333333333" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/vp1_layout.xml" value="0.1" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/vp2_layout.xml" value="0.25" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/layout/vp3_layout.xml" value="0.25" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/mipmap-anydpi-v26/my_location.xml" value="0.1" />
+        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Tugas-Sensor-Genap-2022-AKB-IF-1-10119032/app/src/main/res/mipmap-anydpi-v26/my_location_round.xml" value="0.1" />
         <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/TugasSensorGenap2022AKBIF110119032/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/TugasSensorGenap2022AKBIF110119032/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
         <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/TugasSensorGenap2022AKBIF110119032/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />

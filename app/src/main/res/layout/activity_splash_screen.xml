@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<!--NIM     : 10119032-->
-<!--NAMA    : GINANJAR TUBAGUS GUMILAR-->
-<!--KELAS   : IF-1-->
-
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashScreen"
-    android:id="@+id/splash_screen">
+    android:orientation="vertical"
+    tools:context=".SplashScreen">
 
     <ImageView
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:id="@+id/logo"
+        android:layout_width="350dp"
+        android:layout_height="238dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="150dp"
         android:backgroundTint="#FFFFFF"
-        android:scaleType="centerCrop"
-        android:src="@drawable/ginanjar" />
+        android:src="@drawable/food_hd" />
 
-</RelativeLayout>
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="57dp"
+        android:layout_below="@+id/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="App Penanda Resto"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</LinearLayout>
